@@ -1,3 +1,5 @@
+UPDATED README
+
 # Simple Interest Calculator
 
 This project contains a simple bash script that calculates the simple interest based on the principal amount, interest rate, and time in years.
